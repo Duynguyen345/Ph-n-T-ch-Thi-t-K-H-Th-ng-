@@ -1,0 +1,106 @@
+/* header & nav */
+.rounded-circle {
+    height: 150px;
+    margin-right: 5px;
+}
+
+#banner {
+    letter-spacing: 1px;
+    font-weight: 900;
+    text-shadow: -3px 7px 4px #5bc5d7;
+    font-style: italic;
+    color: #cc313d;
+    font-size: 45px;
+}
+
+.py-3 {
+    background-color: #0A5A89;
+}
+
+.nav-item button {
+    margin-right: 5px;
+    color: white;
+    margin-left: 20px;
+}
+
+/*aaaaaaaaaaaaaa*/
+#sdt {
+    width: 100%;
+}
+
+#gioithieu {
+    color: white;
+    margin-bottom: 10px;
+}
+
+.icon {
+    width: 20%;
+    margin-right: 2px;
+}
+
+.col span {
+    color: white;
+    font-size: 17px;
+}
+
+#bao {
+    padding-left: 20%;
+    width: 100%;
+    padding-top: 50px;
+}
+
+.star {
+    width: 35%;
+}
+
+.hop {
+    border-radius: 5px;
+    border: 6px solid #0A5A89;
+    width: 75%;
+    color: #0A5A89;
+    background-color: rgb(240, 235, 235);
+}
+
+#box-carousel {
+    margin-top: 20px;
+    width: 60%;
+    margin: auto;
+    border: 1px solid;
+    height: 100px;
+}
+
+.carousel-hinh img {
+    width: 1000px;
+    height: 400px;
+    margin: auto;
+}
+
+/* footer */
+footer {
+    background-color: #0A5A89;
+    color: white;
+    padding-top: 15px;
+}
+
+.lienhe {
+    color: white;
+    text-decoration: none;
+}
+
+.lienhe:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+#end1 span {
+    font-weight: 600;
+}
+
+#privacyModal {
+    color: black;
+}
+
+#end2 {
+    margin-top: 30px;
+    padding-bottom: 10px;
+}
