@@ -1,0 +1,16 @@
+#dichvudn {
+    color: #0A5A89;
+}
+
+#dsdn li {
+    width: 90%;
+}
+
+.link-dn {
+    color: black;
+    text-decoration: none;
+}
+
+.link-dn:hover {
+    color: #ccc;
+}
