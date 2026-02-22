@@ -14,3 +14,12 @@
 .link-dn:hover {
     color: #ccc;
 }
+
+.tieudedn {
+    color: #0A5A89;
+}
+
+.my-5 {
+    border: 1px solid #0A5A89;
+    border-radius: 10px;
+}
